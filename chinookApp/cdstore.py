@@ -7,7 +7,7 @@ import psycopg2
 import argparse
 import sys
 
-PGCONNSTRING = "user=dennis_adira dbname=appdev application_name=cdstore"
+PGCONNSTRING = "user=dennis_adira dbname=chinook application_name=cdstore"
 
 
 class Chinook(object):
